@@ -24,9 +24,9 @@ Este projeto oferece uma visão prática da utilização de aprendizagem de máq
 
 ### Tecnologias utilizadas:
 
-- Python <br>
-- Google Colab <br>
-- Javascript
+- Python <img src="img/python.png" alt="Texto alternativo" width="20px"/> <br> 
+- Google Colab <img src="img/colab.png" alt="Texto alternativo" width="25px"/> <br>
+- Javascript <img src="img/js.png" alt="Texto alternativo" width="30px"/>
 
 #### Bibliotecas: 
 - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (ou outras dependendo do modelo utilizado)
