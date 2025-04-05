@@ -1,4 +1,4 @@
-#### Eu sou Bruno Zolotareff dos Santos aluno do Descomplica!
+#### Eu sou Bruno Zolotareff dos Santos aluno do Descomplica! <img src="img/descomplica.png" alt="Texto alternativo" width="30px"/>
 
 # Regrassão Linear  - Pós-graduação Descomplica - Pitch
 ### Curso de pós-graduação em Data Science 2025 - Avaliação 3 - Aplicação na prática
